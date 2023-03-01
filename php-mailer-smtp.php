@@ -1,5 +1,6 @@
 <?php
-// Require the PHPMailer classes
+// Require the PHPMailer classes 
+// Download library from here https://github.com/PHPMailer/PHPMailer
 require("PHPMailer-master/src/PHPMailer.php");
 require("PHPMailer-master/src/SMTP.php");
 require("PHPMailer-master/src/Exception.php");
