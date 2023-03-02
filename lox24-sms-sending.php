@@ -58,3 +58,4 @@ if(201 === $code) {
   // Otherwise, print the error code and data
   echo "Error: code = {$code}, data = " . var_export($data, true);
 }
+
