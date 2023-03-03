@@ -31,4 +31,5 @@ if($error==UPLOAD_ERR_OK){
   // Print an error message if there was an error during file upload
   print("Error while uploading......");
 }
+
 ?>
